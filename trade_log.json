@@ -1,0 +1,137 @@
+[
+    {
+        "code": "002410.SZ",
+        "date": "2023-01-10",
+        "type": "buy",
+        "price": 63.16,
+        "amount": 2500,
+        "total": 157900.0,
+        "current": 842060.53
+    },
+    {
+        "code": "002271.SZ",
+        "date": "2023-01-10",
+        "type": "buy",
+        "price": 35.8,
+        "amount": 4400,
+        "total": 157520.0,
+        "current": 684501.15
+    },
+    {
+        "code": "002007.SZ",
+        "date": "2023-01-10",
+        "type": "buy",
+        "price": 22.74,
+        "amount": 7000,
+        "total": 159180.0,
+        "current": 525281.35
+    },
+    {
+        "code": "002304.SZ",
+        "date": "2023-01-10",
+        "type": "buy",
+        "price": 176.49,
+        "amount": 900,
+        "total": 158841.0,
+        "current": 366400.64
+    },
+    {
+        "code": "002555.SZ",
+        "date": "2023-01-10",
+        "type": "buy",
+        "price": 20.32,
+        "amount": 7800,
+        "total": 158496.0,
+        "current": 207865.02
+    },
+    {
+        "code": "002410.SZ",
+        "date": "2023-01-11",
+        "type": "buy",
+        "price": 62.34,
+        "amount": 2500,
+        "total": 155857.26,
+        "current": 207865.02
+    },
+    {
+        "code": "002271.SZ",
+        "date": "2023-01-11",
+        "type": "buy",
+        "price": 36.08,
+        "amount": 4400,
+        "total": 158736.16,
+        "current": 207865.02
+    },
+    {
+        "code": "002007.SZ",
+        "date": "2023-01-11",
+        "type": "buy",
+        "price": 23.02,
+        "amount": 7000,
+        "total": 161162.61,
+        "current": 207865.02
+    },
+    {
+        "code": "002304.SZ",
+        "date": "2023-01-11",
+        "type": "buy",
+        "price": 176.98,
+        "amount": 900,
+        "total": 159280.71,
+        "current": 207865.02
+    },
+    {
+        "code": "002555.SZ",
+        "date": "2023-01-11",
+        "type": "buy",
+        "price": 20.51,
+        "amount": 7800,
+        "total": 159983.42,
+        "current": 207865.02
+    },
+    {
+        "code": "002410.SZ",
+        "date": "2023-02-01",
+        "type": "sell",
+        "price": 65.29,
+        "amount": -2500,
+        "total": -163071.73,
+        "current": 1029921.01
+    },
+    {
+        "code": "002271.SZ",
+        "date": "2023-02-01",
+        "type": "sell",
+        "price": 37.08,
+        "amount": -4400,
+        "total": -162999.88,
+        "current": 1029921.01
+    },
+    {
+        "code": "002007.SZ",
+        "date": "2023-02-01",
+        "type": "sell",
+        "price": 22.28,
+        "amount": -7000,
+        "total": -155786.4,
+        "current": 1029921.01
+    },
+    {
+        "code": "002304.SZ",
+        "date": "2023-02-01",
+        "type": "sell",
+        "price": 177.81,
+        "amount": -900,
+        "total": -159869.18,
+        "current": 1029921.01
+    },
+    {
+        "code": "002555.SZ",
+        "date": "2023-02-01",
+        "type": "sell",
+        "price": 20.38,
+        "amount": -7800,
+        "total": -158800.33,
+        "current": 1029921.01
+    }
+]
