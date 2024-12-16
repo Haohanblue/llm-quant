@@ -1013,17 +1013,17 @@ if __name__ == '__main__':
         "中小100": '399005.SZ',
     }
     # 定义回测参数
-    START_DATE = '2023-01-10'
-    END_DATE = '2023-02-01'
-    ROTATION_DAYS = 20
-    NUM_STOCKS = 5
-    INITIAL_MONEY = 1000000
+    START_DATE = '2023-01-10' # 回测开始日期
+    END_DATE = '2023-02-01' # 回测结束日期
+    ROTATION_DAYS = 20     # 轮动天数
+    NUM_STOCKS = 5         # 每次轮动选股数量
+    INITIAL_MONEY = 1000000  # 初始资金
     COMMISSION = 0.00025  # 交易佣金比例
     TAX = 0.0005         # 交易税比例
     SLIPPAGE = 0.001    # 滑点比例
     STOP_PROFIT = 0.2    # 止盈百分比
     STOP_LOSS = 0.1    # 止损百分比
-    STOCK_POOL_TYPE = "中小100"
+    STOCK_POOL_TYPE = "中小100" # 股票池类型
 
 
     data = DataHandler(db_url=DB_URL)
